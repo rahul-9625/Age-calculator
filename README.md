@@ -2,9 +2,7 @@
 
 A simple, clean, and responsive web application that calculates the user's age based on their date of birth.
 
-## 🚀 Live Demo
-*(Optional: If you host it on GitHub Pages or Netlify, put the link here)*
-[View Live Project](#)
+
 
 ## ✨ Features
 - 📅 **Date Picker:** Easy-to-use HTML5 date input.
@@ -17,8 +15,6 @@ A simple, clean, and responsive web application that calculates the user's age b
 - **CSS3:** Custom styling and layout centering.
 - **JavaScript:** Logic for date manipulation and DOM updating.
 
-## 📸 Screenshot
-![Project Screenshot](link-to-your-image-here.png)
 
 ## ⚙️ How to Run Locally
 1. Clone the repository:
